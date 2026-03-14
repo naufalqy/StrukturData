@@ -12,15 +12,15 @@ Pada program ini array digunakan untuk menyimpan **10 nilai siswa** yang kemudia
 
 ## Hasil Program
 
-![Hasil Program](https://github.com/naufalqy/StrukturData/blob/3b9c106746636d36cca3b405bd9288e567947034/01-array/screenshot_program.png)
+![Hasil Program](https://github.com/naufalqy/gambar/blob/d7f4d1c65773333a36a3e624868a51a69b0b2984/screenshot_program.png)
 
 ## Grafik Nilai
 
-![Grafik Nilai](https://github.com/naufalqy/StrukturData/blob/3d96850f0d09d205678c491d2ddc9c251022532b/01-array/screenshot_grafik1.png)
+![Grafik Nilai](https://github.com/naufalqy/gambar/blob/d7f4d1c65773333a36a3e624868a51a69b0b2984/screenshot_grafik1.png)
 
 ## Grafik Kelulusan
 
-![Grafik Kelulusan](https://github.com/naufalqy/StrukturData/blob/3d96850f0d09d205678c491d2ddc9c251022532b/01-array/screenshot_grafik2.png)
+![Grafik Kelulusan](https://github.com/naufalqy/gambar/blob/d7f4d1c65773333a36a3e624868a51a69b0b2984/screenshot_grafik2.png)
 
 --
 

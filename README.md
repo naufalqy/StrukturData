@@ -10,6 +10,18 @@ Pada program ini array digunakan untuk menyimpan **10 nilai siswa** yang kemudia
 
 # 2. Tangkapan Layar Hasil
 
+## Hasil Program
+
+![Hasil Program](screenshot_program.png)
+
+## Grafik Nilai
+
+![Grafik Nilai](screenshot_grafik1.png)
+
+## Grafik Kelulusan
+
+![Grafik Kelulusan](screenshot_grafik2.png)
+
 --
 
 # 3. Analisis Kompleksitas

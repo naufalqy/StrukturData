@@ -16,11 +16,11 @@ Pada program ini array digunakan untuk menyimpan **10 nilai siswa** yang kemudia
 
 ## Grafik Nilai
 
-![Grafik Nilai](screenshot_grafik1.png)
+![Grafik Nilai](screenshot_grafik1.png](https://github.com/naufalqy/StrukturData/blob/3d96850f0d09d205678c491d2ddc9c251022532b/01-array/screenshot_grafik1.png )
 
 ## Grafik Kelulusan
 
-![Grafik Kelulusan](screenshot_grafik2.png)
+![Grafik Kelulusan](screenshot_grafik2.png](https://github.com/naufalqy/StrukturData/blob/3d96850f0d09d205678c491d2ddc9c251022532b/01-array/screenshot_grafik2.png )
 
 --
 

@@ -17,12 +17,10 @@ for n in nilai:
 
 tidak_lulus = len(nilai) - lulus
 
-# grafik nilai tertinggi dan terendah
 plt.bar(["Tertinggi","Terendah"],[nilai_tertinggi,nilai_terendah])
 plt.title("Perbandingan Nilai")
 plt.show()
 
-# grafik kelulusan
 plt.bar(["Lulus","Tidak Lulus"],[lulus,tidak_lulus])
 plt.title("Data Kelulusan")
 plt.show()

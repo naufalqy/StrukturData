@@ -1,4 +1,3 @@
-
 nilai = []
 
 print("Masukkan 10 nilai siswa:")

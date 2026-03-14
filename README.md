@@ -12,7 +12,7 @@ Pada program ini array digunakan untuk menyimpan **10 nilai siswa** yang kemudia
 
 ## Hasil Program
 
-![Hasil Program](screenshot_program.png)
+![Hasil Program](https://github.com/naufalqy/StrukturData/blob/3b9c106746636d36cca3b405bd9288e567947034/01-array/screenshot_program.png)
 
 ## Grafik Nilai
 
